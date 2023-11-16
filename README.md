@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Haritha..upcoming CEO
 - 👀 I’m interested in ...doing hardwork
-- 🌱 I’m currently learning ...Web developing 
+- 🌱 I’m currently learning ...Web development course
 - 💞️ I’m looking to collaborate on ...google
-- 📫 How to reach me ...at eluru
+- 📫 How to reach me ...at Eluru
 
 <!---
 12346hh/12346hh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
